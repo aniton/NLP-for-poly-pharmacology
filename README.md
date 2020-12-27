@@ -1,4 +1,4 @@
 # Playground_UniRep
-<li>  _Evotuning (UniRep).ipynb на основе (UniRep)[https://github.com/churchlab/UniRep-analysis]
+<li>  _Evotuning (UniRep).ipynb на основе [https://github.com/churchlab/UniRep-analysis](UniRep)
 <li> 
 <li> 
